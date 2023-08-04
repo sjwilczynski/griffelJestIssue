@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders 1`] = `
+<div>
+  <div
+    class="___gnf9xs0_0000000 f138vucn"
+  >
+    <div
+      class="___799s900_0000000 f1bh81bl f1wd2ja7"
+    >
+      Hello World
+    </div>
+  </div>
+</div>
+`;
